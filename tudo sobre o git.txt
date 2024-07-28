@@ -1,7 +1,10 @@
 Consulta: https://www.youtube.com/watch?v=192HgwRgOYE&t=6946s
 
- - Criar um repositório: git init
- - Adicionar alterações no git (STAGE): git add <<nome do arquivo>> ou git add. pra adicionar todos
- - Verifiar se tem algum arquivo que não foi enviada (STAGE): git status
- - criar uma nova versão - enviar o arquivo ao git (COMMIT - aplicar uma alteração ao sistema): git commit -m
- - 
+ 1 - Criar um repositório: git init
+ 2 - Adicionar alterações no git (STAGE): git add <<nome do arquivo>> ou git add. pra adicionar todos
+ 3 - Verifiar se tem algum arquivo que não foi enviada (STAGE): git status
+ 4 - criar uma nova versão - enviar o arquivo ao git (COMMIT - aplicar uma alteração ao sistema): git commit -m
+ 5 - Ver todas as versões do sistema: git log
+ 6 - Ver em qual versão da linha do tempo do projeto que estamos trabalhando: HEAD -> master
+ 7 - 
+
